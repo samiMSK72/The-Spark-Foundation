@@ -1,0 +1,74 @@
+.con{
+    padding: 20px;
+    display: flex; 
+    
+    background-color: rgb(49, 124, 124);
+    color: white;
+    box-shadow: 1px 2px 10px -1px rgb(0 0 0 / 30%);
+        
+         position: relative;
+         text-align: center;
+ 
+ border: 2px solid rgb(0, 0, 0);
+ border-radius: 15px;
+ 
+ height: 49vh;
+ 
+ width: 57vw;
+ left: 106px;
+ top: 170px;
+ }
+ .con p{
+     text-align: center;
+ }
+ .n{
+     display: flex;
+     position: relative;
+   
+     
+     height: 49px;
+     
+     top: 88px;
+     left: -134px;
+ }
+ .e{
+     display: flex;
+     position: relative;
+     
+     
+     height: 50px;
+     left: -131px;
+     top: 97px;
+ }
+ .razorpay-payment-button.svelte-ohbfj8 {
+     left: -199px;
+     top: 300px;
+     }
+     body{
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         background-color: black;
+         background-image: url("5img.jpg");
+     background-repeat: no-repeat;
+     }
+ .p{
+     position:relative;
+     top: 99px;
+     left: -117px;
+    }
+    .q{
+        position:relative;
+        top: 236px;
+        left: -220px;
+    }
+ 
+ img{
+         
+         position: relative;
+         width: 159px;
+ height: 130px;
+ 
+ left: -233px;
+ top: 110px;
+     }
